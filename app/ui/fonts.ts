@@ -4,4 +4,5 @@ export const inter = Inter({ subsets: ["latin"] });
 
 export const luisitana = Lusitana({
   weight: ["400", "700"],
+  subsets: ["latin"],
 });
